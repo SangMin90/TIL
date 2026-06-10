@@ -47,3 +47,8 @@
 6. **최종 수신:** 요청을 보냈던 내부의 사설 IP 호스트가 아무런 모호함 없이 정확하게 응답 데이터를 수신한다.
 
 ![주소 변환 과정](image-1.png)
+
+## 출처
+
+[NAT 기능을 사용하는 이유를 알고 계신가요? - 매일메일](https://www.maeil-mail.kr/question/164)
+[Network address translation - wikipedia](https://en.wikipedia.org/wiki/Network_address_translation)
